@@ -1,2 +1,1 @@
-# MySql_JDBC
-# MySql_JDBC_Connector
+Connecting Mysql through JDBC
